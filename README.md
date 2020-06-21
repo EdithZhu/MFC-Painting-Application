@@ -1,4 +1,4 @@
-# Painting
+# MFC Painting Application
 
 C++
 
